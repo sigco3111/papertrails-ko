@@ -1,4 +1,4 @@
-# 페이퍼트레일스 한국어판 (Papertrails KO)
+# 페이퍼트레일 (Papertrails) 한국어판
 
 끝없이 이어지는 팝업북 속 종이 세계를 걸어 다니는 3D 산책 게임 [Papertrails](https://github.com/xikhar/papertrails)의 한국어판입니다. 손으로 오려 만든 듯한 마을, 숲, 강, 길 위를 작은 여행자가 랜턴을 들고 걷습니다. 원작은 xikhar(Shikhar)가 만들었고 MIT 라이선스로 공개되어 있습니다.
 
